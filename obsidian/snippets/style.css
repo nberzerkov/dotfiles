@@ -1,0 +1,10 @@
+/* default vaules */
+/* body {
+  --p-spacing: 1rem;
+  --heading-spacing: calc(var(--p-spacing) * 2.5);
+} */
+
+body {
+  --p-spacing: 1rem;
+  --heading-spacing: calc(var(--p-spacing) * 1);
+}
