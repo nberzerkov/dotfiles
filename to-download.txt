@@ -1,0 +1,6 @@
+homebrew
+git
+alacritty
+neovim
+tmux
+obsidian
