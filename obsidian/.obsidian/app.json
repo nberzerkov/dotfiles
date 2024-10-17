@@ -1,0 +1,28 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "attachmentFolderPath": "__meta/attachments",
+  "trashOption": "local",
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "tabSize": 2,
+  "focusNewTab": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "autoConvertHtml": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "smartIndentList": true,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "_meta/"
+  ],
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+",
+  "showRibbon": true,
+  "showUnsupportedFiles": false
+}

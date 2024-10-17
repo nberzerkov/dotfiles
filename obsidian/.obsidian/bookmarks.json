@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "Правила.md",
+      "ctime": 1683126375855
+    },
+    {
+      "type": "file",
+      "ctime": 1699075856343,
+      "path": "spaces/home/Рабочее пространство.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1711969367562,
+      "path": "Ендураев Inc..md"
+    },
+    {
+      "type": "file",
+      "ctime": 1717486381122,
+      "path": "Maxima.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1710591751117,
+      "path": "MOC/Раздел о книгах.md",
+      "title": "Книги"
+    },
+    {
+      "type": "file",
+      "ctime": 1709644146924,
+      "path": "MOC/IT.md",
+      "title": "IT"
+    }
+  ]
+}

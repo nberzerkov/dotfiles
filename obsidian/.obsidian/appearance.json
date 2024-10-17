@@ -1,0 +1,18 @@
+{
+  "accentColor": "#007aff",
+  "cssTheme": "Spectrum",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 14,
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "border-style-set",
+    "style",
+    "color-bold"
+  ]
+}
