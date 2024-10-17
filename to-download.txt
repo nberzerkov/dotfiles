@@ -6,3 +6,4 @@ tmux
 obsidian
 raycast
 numi
+tridactyl 
