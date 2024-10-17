@@ -4,3 +4,5 @@ alacritty
 neovim
 tmux
 obsidian
+raycast
+numi
