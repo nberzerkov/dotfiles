@@ -1,0 +1,12 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 20
+padding.y = 20
+
+decorations = "ButtonLess"
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+size = 18.0
