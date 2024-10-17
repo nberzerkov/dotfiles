@@ -1,0 +1,17 @@
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #ef4444 !important;
+}
+
+/* Different color for italic in Editor*/
+.cm-em {
+  color: #eab308;
+  font-style: normal !important;
+}
+
+/* Different color for italic in Preview*/
+.markdown-preview-section em {
+  color: #eab308 !important;
+  font-style: normal !important;
+}
