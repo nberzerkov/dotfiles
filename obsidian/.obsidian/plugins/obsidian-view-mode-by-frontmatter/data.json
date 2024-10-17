@@ -1,0 +1,25 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "spaces/home",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "job-interviews-it",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "\"frontend\"",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ]
+}
