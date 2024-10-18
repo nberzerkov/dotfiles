@@ -8,4 +8,7 @@ raycast
 numi
 tridactyl
 gpg cli (yt диджитализируй о gpg & pass)
-pass cli 
+pass cli
+f.lux
+cleanshot (или посмотреть аналоги)
+aerospace tiling window manager (https://www.youtube.com/watch?v=-FoWClVHG5g)
