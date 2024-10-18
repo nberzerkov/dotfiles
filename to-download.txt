@@ -6,4 +6,6 @@ tmux
 obsidian
 raycast
 numi
-tridactyl 
+tridactyl
+gpg cli (yt диджитализируй о gpg & pass)
+pass cli 
