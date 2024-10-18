@@ -12,3 +12,4 @@ pass cli
 f.lux
 cleanshot (или посмотреть аналоги)
 aerospace tiling window manager (https://www.youtube.com/watch?v=-FoWClVHG5g)
+https://github.com/Ji4n1ng/OpenInTerminal
